@@ -31,9 +31,10 @@ Pour exécuter ce TP:
 ## Installation:
 Cloner le dépôt ou télécharger les fichiers sources des projets.
 Configurer les fichiers de projet en fonction de l'environnement (JDK, IDE utilisé).
-Compiler et exécuter chaque projet depuis votre IDE (NetBeans, Eclipse).
+Compiler et exécuter chaque projet depuis votre IDE (Intillij, Eclipse).
 
 ## Vidéo :
-
+-Tp1 : 
+-Tp2 : 
 ## Crédits :
 Développé par Zaggar.
